@@ -1,0 +1,22 @@
+{
+ "name": "Ideenkarte · Master New Business",
+ "short_name": "Ideenkarte",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "landscape",
+ "background_color": "#38484E",
+ "theme_color": "#38484E",
+ "icons": [
+  {
+   "src": "icon-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
